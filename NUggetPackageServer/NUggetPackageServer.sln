@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUggetPackageServer", "NUggetPackageServer\NUggetPackageServer.csproj", "{A49F9C92-B6F7-4CA5-BB73-ED22CE8DB180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A49F9C92-B6F7-4CA5-BB73-ED22CE8DB180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49F9C92-B6F7-4CA5-BB73-ED22CE8DB180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49F9C92-B6F7-4CA5-BB73-ED22CE8DB180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49F9C92-B6F7-4CA5-BB73-ED22CE8DB180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B6FB3D2-DE56-4DAF-92E6-645D7A2DF79A}
+	EndGlobalSection
+EndGlobal
